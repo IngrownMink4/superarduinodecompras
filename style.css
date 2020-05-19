@@ -1,0 +1,19 @@
+<style>
+::selection {
+    background: rgb(255, 234, 128, 1);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+html {
+    scrollbar-color: rgba(var(--rgb-black),.4) rgba(var(--rgb-white),.1);
+    scrollbar-width: thin;
+}
+
+body {
+font: 'Computer Modern Serif',serif;
+}
+
+</style>
