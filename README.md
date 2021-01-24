@@ -11,5 +11,5 @@ We have developed a cart that follows you wherever you go, using a light sensor 
 **Theoretically it could work, although, as this is a school project, it may not be of much help in real life.**
 
 ## What is the license of this project?
-This project is licensed under the [GNU General Public License 3](URL "https://www.gnu.org/licenses/gpl-3.0.en.html")
+This project is licensed under the [GNU General Public License 3](URL "https://github.com/IngrownMink4/superarduinodecompras/blob/master/LICENSE")
 
