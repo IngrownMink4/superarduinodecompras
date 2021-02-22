@@ -1,19 +1,24 @@
 <style>
-::selection {
-    background: rgb(255, 234, 128, 1);
-}
 
 html {
     scroll-behavior: smooth;
 }
-
+  
+::-webkit-scrollbar-thumb {
+    background: #99AAB5;
+    border-radius: 7px;
+}
+  
+::-webkit-scrollbar {
+    width: 8px;
+    background: #23272A;
+}
+  
 html {
-    scrollbar-color: rgba(var(--rgb-black),.4) rgba(var(--rgb-white),.1);
     scrollbar-width: thin;
+    scrollbar-color: #99AAB5 #23272A;
 }
 
-body {
-font: 'Computer Modern Serif',serif;
+::selection {
+    background: rgba(35, 39, 42, 1);
 }
-
-</style>
