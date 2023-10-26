@@ -17,7 +17,7 @@ It's oriented for Arduino.
 This project is licensed under the GNU General Public License 3 https://www.gnu.org/licenses/gpl-3.0.txt
 
 ```
-Copyright © 2021 IngrownMink4
+Copyright © 2023 IngrownMink4
 
 superarduinodecompras is free software: you can redistribute it 
 and/or modify it under the terms of the GNU General Public License
